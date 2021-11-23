@@ -53,5 +53,9 @@
     "extends": [
       "react-app"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:Flaviojcf/Hook-shopping-cart.git",
+  "author": "Flaviojcf <fjcf@poli.br>",
+  "license": "MIT"
 }
